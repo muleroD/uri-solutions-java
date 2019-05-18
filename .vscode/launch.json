@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main1002",
+            "request": "launch",
+            "mainClass": "src.uri.page1.Main1002",
+            "projectName": "uri-solutions-java_56ab3987"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "uri-solutions-java_56ab3987"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main1003",
+            "request": "launch",
+            "projectName": "uri-solutions-java_56ab3987"
+        }
+    ]
+}
